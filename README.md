@@ -1,5 +1,5 @@
 # Personal Book List with Google Books Integration
-
+ 
 ## Context
 You have a Spring Boot project with a REST endpoint `/books` that returns
 all books from an in-memory H2 database. The code includes a `Book` entity,
